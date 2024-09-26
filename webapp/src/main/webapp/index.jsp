@@ -2,7 +2,7 @@
   <div class="container">
     <h1>New user Register for DevOps por Alejandro Mercado</h1>
     <h2>Dynatrace Cloud Automation Demo</h2>
-    <h3>testing SonarQube Integration</h3>
+    <h3>Testing SonarQube and Dynatrace Integration</h3>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
